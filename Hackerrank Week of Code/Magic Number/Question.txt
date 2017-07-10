@@ -1,0 +1,3 @@
+Check if a number is a magic number or not.
+
+NOTE:- A Number Is A Magic Number If Sum Of Its Digits Sum Up To One
