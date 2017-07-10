@@ -1,0 +1,6 @@
+Print a Pascal Triangle
+
+
+What is a Pascal Triangle :- https://en.wikipedia.org/wiki/Pascal%27s_triangle
+
+Pascal's triangle is a triangular array of the binomial coefficients

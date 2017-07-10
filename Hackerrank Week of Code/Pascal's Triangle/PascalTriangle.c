@@ -24,6 +24,10 @@ int main(){
   int f,number,i,x,w,e;
   printf("enter a numbers to create a pascal triangle\n");
   scanf("%d",&number);
+  for(f=0;f<number;f++){
+    printf(" ");
+  }
+  printf("1\n");
   for(f=1;f<=number;f++){
     for(e=1;e<=number-1-f;e++){
       printf(" ");
