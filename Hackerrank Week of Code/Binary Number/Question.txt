@@ -1,0 +1,3 @@
+Binary Number
+
+Given a number Convert the number to Binary String and print it to the console.
